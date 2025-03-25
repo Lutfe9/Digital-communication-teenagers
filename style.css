@@ -3,7 +3,7 @@ styles.css
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: D5B895;
+    background-color: D5B895; !important;
     color: 000000;
     margin: 0;
     padding: 0;
